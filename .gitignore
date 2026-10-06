@@ -12,3 +12,10 @@ wheels/
 
 # Environment variables
 .env
+
+# Secrets
+private_key.pem
+.fastapicloud
+
+# Files for extra purposes
+*.sql
